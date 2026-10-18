@@ -1,0 +1,23 @@
+{
+  "name": "Benny's games",
+  "modules": [
+    {
+      "id": "magical-athlete",
+      "name": "Magical Athlete",
+      "version": "1.0.0",
+      "minAppVersion": "3.0.0",
+      "zip": "magical-athlete-1.0.0.zip",
+      "icon": "icons/magical-athlete.webp",
+      "size": 396456
+    },
+    {
+      "id": "vale-of-eternity",
+      "name": "Vale of Eternity",
+      "version": "2.0.0",
+      "minAppVersion": "3.0.0",
+      "zip": "vale-of-eternity-2.0.0.zip",
+      "icon": "icons/vale-of-eternity.webp",
+      "size": 1552084
+    }
+  ]
+}
