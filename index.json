@@ -22,11 +22,11 @@
     {
       "id": "vale-of-eternity-curse",
       "name": "Vale of Eternity: Curse",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "minAppVersion": "3.3.0",
-      "zip": "vale-of-eternity-curse-1.0.1.zip",
+      "zip": "vale-of-eternity-curse-1.0.2.zip",
       "icon": "icons/vale-of-eternity-curse.webp",
-      "size": 1931650,
+      "size": 1942285,
       "expands": "vale-of-eternity"
     }
   ]
