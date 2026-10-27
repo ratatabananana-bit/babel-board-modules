@@ -2,6 +2,15 @@
   "name": "Table Helper games",
   "modules": [
     {
+      "id": "clank-catacombs",
+      "name": "Clank! Catacombs",
+      "version": "1.0.0",
+      "minAppVersion": "3.3.3",
+      "zip": "clank-catacombs-1.0.0.zip",
+      "icon": "icons/clank-catacombs.webp",
+      "size": 5866640
+    },
+    {
       "id": "magical-athlete",
       "name": "Magical Athlete",
       "version": "1.0.0",
