@@ -4,11 +4,11 @@
     {
       "id": "clank-catacombs",
       "name": "Clank! Catacombs",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "minAppVersion": "3.3.3",
-      "zip": "clank-catacombs-1.0.0.zip",
+      "zip": "clank-catacombs-1.0.1.zip",
       "icon": "icons/clank-catacombs.webp",
-      "size": 5866640
+      "size": 5866299
     },
     {
       "id": "magical-athlete",
