@@ -4,11 +4,11 @@
     {
       "id": "clank-catacombs",
       "name": "Clank! Catacombs",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "minAppVersion": "3.3.3",
-      "zip": "clank-catacombs-1.0.2.zip",
+      "zip": "clank-catacombs-1.0.3.zip",
       "icon": "icons/clank-catacombs.webp",
-      "size": 5866312
+      "size": 5866451
     },
     {
       "id": "magical-athlete",
@@ -22,20 +22,20 @@
     {
       "id": "vale-of-eternity",
       "name": "Vale of Eternity",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "minAppVersion": "3.0.0",
-      "zip": "vale-of-eternity-2.1.0.zip",
+      "zip": "vale-of-eternity-2.1.1.zip",
       "icon": "icons/vale-of-eternity.webp",
-      "size": 1552105
+      "size": 3577176
     },
     {
       "id": "vale-of-eternity-curse",
       "name": "Vale of Eternity: Curse",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "minAppVersion": "3.3.0",
-      "zip": "vale-of-eternity-curse-1.0.3.zip",
+      "zip": "vale-of-eternity-curse-1.0.4.zip",
       "icon": "icons/vale-of-eternity-curse.webp",
-      "size": 1939803,
+      "size": 3285467,
       "expands": "vale-of-eternity"
     }
   ]
