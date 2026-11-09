@@ -20,6 +20,25 @@
       "size": 396554
     },
     {
+      "id": "tag-team",
+      "name": "Tag Team",
+      "version": "1.0.0",
+      "minAppVersion": "3.4.0",
+      "zip": "tag-team-1.0.0.zip",
+      "icon": "icons/tag-team.webp",
+      "size": 11960071
+    },
+    {
+      "id": "tag-team-arthurs-legacy",
+      "name": "Tag Team: Arthur's Legacy",
+      "version": "1.0.0",
+      "minAppVersion": "3.4.0",
+      "zip": "tag-team-arthurs-legacy-1.0.0.zip",
+      "icon": "icons/tag-team-arthurs-legacy.webp",
+      "size": 3361601,
+      "expands": "tag-team"
+    },
+    {
       "id": "vale-of-eternity",
       "name": "Vale of Eternity",
       "version": "2.1.2",
