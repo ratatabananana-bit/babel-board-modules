@@ -2,6 +2,24 @@
   "name": "Table Helper games",
   "modules": [
     {
+      "id": "avalon",
+      "name": "Avalon",
+      "version": "1.0.0",
+      "minAppVersion": "3.4.0",
+      "zip": "avalon-1.0.0.zip",
+      "icon": "icons/avalon.webp",
+      "size": 240404
+    },
+    {
+      "id": "avalon-zh",
+      "name": "Avalon 阿瓦隆",
+      "version": "1.0.0",
+      "minAppVersion": "3.5.0",
+      "zip": "avalon-zh-1.0.0.zip",
+      "icon": "icons/avalon-zh.webp",
+      "size": 267534
+    },
+    {
       "id": "clank-catacombs",
       "name": "Clank! Catacombs",
       "version": "1.1.1",
